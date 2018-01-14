@@ -1,2 +1,2 @@
 # Regression
-This repository includes my code for Assignments from Coursera Machine Learning: Regression course from UW
+This repository includes my codes for Assignments from Coursera UW Machine Learning: Regression course
